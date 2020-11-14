@@ -1,5 +1,5 @@
 ---
-permalink: /ml/
+permalink: /ml_exp/
 ---
 
 ### Machine learning
