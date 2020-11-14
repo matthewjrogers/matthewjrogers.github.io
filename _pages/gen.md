@@ -1,3 +1,7 @@
+---
+permalink: /gen/
+---
+
 ### general
 This is where I'll talk about the projects that don't neatly fit elsewhere
 
