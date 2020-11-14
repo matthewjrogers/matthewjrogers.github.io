@@ -3,3 +3,16 @@ remote_theme: mmistakes/minimal-mistakes@4.21.0
 plugins: [jekyll-include-cache]
 minimal_mistakes_skin: "dark"
 title: Matthew J. Rogers
+author:
+  name: "Matthew J. Rogers"
+  avatar: "/assets/images/bio-photo.jpg"
+  bio: "Programmer, analyst, problem solver." # Note: Markdown is allowed
+  location: "Somewhere"
+  links:
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/matthewjrogers"
+    - label: "Instagram"
+      icon: "fab fa-fw fa-linkedin-in"
+      url: "https://www.linkedin.com/in/matthew-j-rogers/"
+
