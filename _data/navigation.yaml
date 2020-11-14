@@ -1,6 +1,6 @@
 main:
   - title: "Shiny"
-    url: /shiny/
+    url: /shiny_gallery/
   - title: "Machine Learning"
     url: /ml_exp/
   - title: "General"
