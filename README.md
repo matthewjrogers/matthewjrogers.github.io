@@ -12,8 +12,8 @@ Below are some sample projects I have completed in my spare time. I also include
 * **[R Shiny](https://matthewjrogers.github.io/rshiny)**
 * **[Machine Learning](https://matthewjrogers.github.io/ml)**
 * **[R (General)](https://matthewjrogers.github.io/r)**
-* **[Python (General)](https://matthewjrogers.github.io/r)**
+* **[Python (General)](https://matthewjrogers.github.io/py)**
 
 ### Other
 * **[Data Visualization](https://matthewjrogers.github.io/data_viz)**
-* **[Writing Samples](https://matthewjrogers.github.io/writing)**
+* **[Writing Samples](https://matthewjrogers.github.io/writing.)**
