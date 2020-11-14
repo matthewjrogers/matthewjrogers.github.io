@@ -244,9 +244,19 @@ compress_html:
     envs: development
 
 collections:
-  shiny_projects:
+  shiny_gallery:
     output: true
     permalink: /:collection/:path/
+    
+defaults:
+  # _portfolio
+  - scope:
+      path: ""
+      type: shiny_gallery
+    values:
+      layout: single
+      author_profile: false
+      share: true
 
 # Defaults
 defaults:
