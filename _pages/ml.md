@@ -1,6 +1,7 @@
 ---
 permalink: /ml_exp/
 author_profile: true
+layout: single
 ---
 
 ### Machine learning
