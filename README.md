@@ -1,37 +1,19 @@
-## Welcome to GitHub Pages
+## My name is Matt Rogers
 
-You can use the [editor on GitHub](https://github.com/matthewjrogers/matthewjrogers.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+I'm a programmer, analyst, and problem solver with a passion for process improvement. I'm always eager for new challenges and the opportunity to acquire new skills. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I live with my wife and two cats in South Royalton, VT and enjoy a wide range of hobbies in my free time, from woodworking to bookbinding.
 
-### [Markdown](https://matthewjrogers.github.io/rshiny)
+## Project Portfolio
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Below are some sample projects I have completed in my spare time. I also include a discussion of my relevant professional experience, where applicable.
 
-```markdown
-Syntax highlighted code block
+### Technical 
+#### [R Shiny](https://matthewjrogers.github.io/rshiny)
+#### [Machine Learning](https://matthewjrogers.github.io/ml)
+#### [R (General)](https://matthewjrogers.github.io/r)
+#### [Python (General)](https://matthewjrogers.github.io/r)
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/matthewjrogers/matthewjrogers.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### Other
+#### [Data Visualization](https://matthewjrogers.github.io/data_viz)
+#### [Writing Samples](https://matthewjrogers.github.io/writing)
