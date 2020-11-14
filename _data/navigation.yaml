@@ -2,7 +2,7 @@ main:
   - title: "Shiny"
     url: /shiny/
   - title: "Machine Learning"
-    url: /ml/
+    url: /ml_exp/
   - title: "General"
     url: /gen/
 
