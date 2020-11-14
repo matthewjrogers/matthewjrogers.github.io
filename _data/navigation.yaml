@@ -1,8 +1,8 @@
 main:
   - title: "Shiny"
-    url: /shiny/overview/
+    url: /shiny/
   - title: "Machine Learning"
-    url: /ml/overview/
+    url: /ml/
   - title: "General"
-    url: /gen/overview/
+    url: /gen/
 
