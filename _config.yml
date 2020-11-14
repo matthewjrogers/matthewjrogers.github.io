@@ -15,4 +15,7 @@ author:
     - label: "Instagram"
       icon: "fab fa-fw fa-linkedin-in"
       url: "https://www.linkedin.com/in/matthew-j-rogers/"
+defaults:
+    values:
+      author_profile: true
 
