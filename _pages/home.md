@@ -1,3 +1,6 @@
+---
+permalink: /
+---
 ## My name is Matt Rogers
 
 I'm a programmer, analyst, and problem solver with a passion for process improvement. I'm always eager for new challenges and the opportunity to acquire new skills. 
