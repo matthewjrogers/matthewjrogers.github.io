@@ -1,5 +1,6 @@
 ---
 permalink: /gen/
+author_profile: true
 ---
 
 ### general
