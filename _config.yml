@@ -1,2 +1,4 @@
-theme: jekyll-theme-slate
+#theme: jekyll-theme-slate
+remote_theme: mmistakes/minimal-mistakes@4.21.0
+plugins: [jekyll-include-cache]
 title: Matthew J. Rogers
