@@ -1,7 +1,7 @@
 ---
 permalink: /gen/
 author_profile: true
-layout: default
+layout: single
 ---
 
 ### general
