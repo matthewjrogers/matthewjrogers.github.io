@@ -1,6 +1,3 @@
----
-author_profile: true
----
 
 ## My name is Matt Rogers
 
