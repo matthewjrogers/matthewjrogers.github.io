@@ -1,5 +1,6 @@
 ---
 permalink: /shiny/
+author_profile: true
 ---
 
 ## My shiny projects
