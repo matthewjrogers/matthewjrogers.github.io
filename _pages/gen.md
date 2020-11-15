@@ -1,4 +1,5 @@
 ---
+title: Other Projects
 permalink: /gen/
 author_profile: true
 layout: collection
@@ -8,7 +9,7 @@ author_profile: true
 classes: wide
 ---
 
-### general
-This is where I'll talk about the projects that don't neatly fit elsewhere
+### I'm always learning something new
+Whether it's developing a new skill or digging up data to answer a question (either serious or silly), I love new puzzles, challenges, and opportunities.
 
-Also will house my data viz and writing stuff
+The projects listed here range from game simulations written in Python and Julia to a web scraper written in R to statistical analysis of fatal motorcycle accidents. 
