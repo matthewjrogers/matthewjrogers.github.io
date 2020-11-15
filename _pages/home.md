@@ -3,6 +3,7 @@ permalink: /
 author_profile: true
 title: My name is Matt Rogers
 toc: true
+toc_icon: "fas fa-fw fa-chevron-circle-down"
 ---
 
 I'm always eager for new challenges and the opportunity to acquire new skills. I've worked in technical and analytical roles across a variety of industries.
