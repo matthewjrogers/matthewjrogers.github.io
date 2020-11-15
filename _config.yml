@@ -13,8 +13,8 @@ remote_theme: mmistakes/minimal-mistakes@4.21.0
 # theme                  : "minimal-mistakes-jekyll"
 # remote_theme           : "mmistakes/minimal-mistakes"
 minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
-include: ["_pages", "docs"]
-collections_dir: docs
+include: ["_pages", "_shiny_gallery"]
+
 # Site Settings
 locale                   : "en-US"
 title                    : "Portfolio"
