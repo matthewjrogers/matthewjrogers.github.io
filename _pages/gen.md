@@ -6,7 +6,6 @@ layout: collection
 collection: gen
 entries_layout: grid
 author_profile: true
-classes: wide
 ---
 *****
 ### I'm always learning something new
