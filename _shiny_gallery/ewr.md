@@ -11,6 +11,7 @@ An app to house a demand simulation model for an international airport.
 * Create a clean, professional user interface
 
 ### Outcome
+* Proprietary app
 * Delivered project under budget
 * Commended in annual review for facilitatin gthe ultimate success of the project by providing a key skill set.
 
