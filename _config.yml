@@ -266,6 +266,22 @@ defaults:
       layout: single
       author_profile: True
       share: false
+  # gen
+  - scope:
+      path: ""
+      type: gen
+    values:
+      layout: single
+      author_profile: True
+      share: false
+  # ml
+  - scope:
+      path: ""
+      type: ml
+    values:
+      layout: single
+      author_profile: True
+      share: false
   # _posts
   - scope:
       path: ""
