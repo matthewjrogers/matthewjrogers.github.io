@@ -21,6 +21,7 @@ On the personal side, I live with my wife and two cats in South Royalton, VT and
 * SQL (Postgres, MySQL, Oracle, SQLite)
 
 A copy of my resume is available [here](https://github.com/matthewjrogers/matthewjrogers.github.io/files/5542919/Rogers_Matthew_Resume_2020.pdf)
+
 *****
 
 
