@@ -258,6 +258,14 @@ collections:
 
 # Defaults
 defaults:
+  # _shiny_gallery
+  - scope:
+      path: ""
+      type: shiny_gallery
+    values:
+      layout: single
+      author_profile: True
+      share: false
   # _posts
   - scope:
       path: ""
