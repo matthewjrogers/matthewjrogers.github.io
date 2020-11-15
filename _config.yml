@@ -251,7 +251,7 @@ collections:
 defaults:
   # _portfolio
   - scope:
-      path: "/docs/"
+      path: ""
       type: shiny_gallery
     values:
       layout: single
