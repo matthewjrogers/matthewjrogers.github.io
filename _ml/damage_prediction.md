@@ -1,6 +1,7 @@
 ---
 title: Building Damage Prediction
 excerpt: Predict the level of damage to buildings from the 2015 Gorkha earthquake
+toc: true
 ---
 
 ### Description:
