@@ -1,6 +1,7 @@
 ---
 permalink: /
 author_profile: true
+toc: true
 title: My name is Matt Rogers
 ---
 
