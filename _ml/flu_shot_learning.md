@@ -1,6 +1,7 @@
 ---
 title: Vaccination Prediction
-excerpt: Predict probability of flue vaccination
+excerpt: Predict probability of flu vaccination
+toc: true
 ---
 
 ### Description:
