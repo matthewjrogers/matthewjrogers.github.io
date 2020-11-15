@@ -1,7 +1,11 @@
 ---
 permalink: /gen/
 author_profile: true
-layout: single
+layout: collection
+collection: gen
+entries_layout: grid
+author_profile: true
+classes: wide
 ---
 
 ### general
