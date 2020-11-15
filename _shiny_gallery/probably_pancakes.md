@@ -14,7 +14,7 @@ I submitted the app to the 2nd Annual Shiny competition hosted by RStudio. Thoug
 
 ### Notable Features:
 * Flexible and dynamic UI driven by Shiny modules. User can input any number of desired ingredients, while the code remains succinct and easily maintained on the back end.
-* Custom CSS, demonstrating the level of polish possible for clinet-facing products.
+* Custom CSS, demonstrating the level of polish possible for client-facing products built with Shiny.
 
 ### Technology Used:
 * Shiny
