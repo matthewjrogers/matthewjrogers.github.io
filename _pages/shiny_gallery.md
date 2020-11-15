@@ -5,7 +5,6 @@ permalink: /shiny_gallery/
 collection: shiny_gallery
 entries_layout: grid
 author_profile: true
-classes: wide
 ---
 *****
 I am an accomplished Shiny developer. In addition to the apps listed here, I have also:
