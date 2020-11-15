@@ -245,14 +245,15 @@ compress_html:
     envs: development
 
 collections:
-  portfolio:
-    output: true
-    permalink: /:collection/:path/
   shiny_gallery:
     output: true
     permalink: /:collection/:path/
   ml:
+    output: true
+    permalink: /:collection/:path/
   gen:
+    output: true
+    permalink: /:collection/:path/
     
 
 # Defaults
