@@ -1,6 +1,7 @@
 ---
 title: Repair Capacity App
 excerpt: App to house capacity model for Aftermarket Operations at Pratt & Whitney
+toc: true
 ---
 
 ### Description:
