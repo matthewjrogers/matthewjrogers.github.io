@@ -1,6 +1,7 @@
 ---
 title: Web Data Collection & Modeling
 excerpt: Data collection for recipe classification app
+toc: true
 ---
 
 ### Description:
