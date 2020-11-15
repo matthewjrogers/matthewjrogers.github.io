@@ -101,7 +101,7 @@ author:
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:your.matthew.rogers09@gmail.com"
+      url: "mailto:matthew.rogers09@gmail.com"
     - label: "Blog"
       icon: "fas fa-fw fa-link"
       url: "https://www.unconquerablecuriosity.com"
@@ -250,7 +250,7 @@ collections:
     permalink: /:collection/:path/
   shiny_gallery:
     output: true
-    permalink: /:shiny_gallery/:path/
+    permalink: /:collection/:path/
     
 
 # Defaults
