@@ -1,6 +1,7 @@
 ---
 title: Water Pump Classification
 excerpt: Classify water pumps in Tanzania as functional or non functional
+toc: true
 ---
 
 ### Description:
