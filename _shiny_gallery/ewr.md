@@ -2,12 +2,13 @@
 title: Demand Simulator
 excerpt: Scenario planning model for international airport
 toc: true
+toc_icon: "fas fa-fw fa-chevron-circle-down"
 ---
 
-### Description:
+### Description
 An app to house a demand simulation model for an international airport.
 
-### Goal:
+### Goal
 * Enable clients to simulate and store a wide variety of scenarios
 * Create a clean, professional user interface
 
@@ -16,11 +17,11 @@ An app to house a demand simulation model for an international airport.
 * Delivered project under budget
 * Commended in annual review for facilitating the ultimate success of the project by providing a key skill set.
 
-### Notable Features:
+### Notable Features
 * More than 200 user inputs allowed end users to plan for a vast range of scenarios
 * Used Shiny modules to maintain clean, extensible, and navigable code despite large number of inputs
 
-### Technology Used:
+### Technology Used
 * Shiny
 * ShinyDashboard
 * MySQL
