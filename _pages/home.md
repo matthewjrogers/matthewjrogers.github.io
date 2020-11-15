@@ -1,8 +1,8 @@
 ---
 permalink: /
 author_profile: true
-toc: true
 title: My name is Matt Rogers
+toc: true
 ---
 
 I'm always eager for new challenges and the opportunity to acquire new skills. I've worked in technical and analytical roles across a variety of industries.
