@@ -13,7 +13,7 @@ toc: true
 Win more games of cribbage (with data)
 
 ### Outcome:
-Based on the results of an [earlier simulation](https://github.com/matthewjrogers/julia_plays_cribbage) written in Julia, I gave a well received TED-style presentation to the company as part of a weekly lunch-and-learn.
+Based on the results of an [earlier simulation](https://github.com/matthewjrogers/julia_plays_cribbage) written in Julia, I gave a well received TED-style presentation while at RSG as part of a weekly lunch-and-learn.
 
 ### Notable Features
 * Recursive function to check for runs
