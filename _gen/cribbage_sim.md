@@ -1,6 +1,8 @@
 ---
 title: Cribbage Simulation
 excerpt: Python monte carlo simulation
+* TOC
+{:toc}
 ---
 ### Description:
 [Cribbage](https://en.wikipedia.org/wiki/Cribbage) is my favorite card game, and my family takes our games very seriously. Over the years I've had several questions that were challenging to answer by just playing the game, such as:
