@@ -251,6 +251,8 @@ collections:
   shiny_gallery:
     output: true
     permalink: /:collection/:path/
+  ml:
+  gen:
     
 
 # Defaults
