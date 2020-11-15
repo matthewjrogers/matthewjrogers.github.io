@@ -12,4 +12,21 @@ On this site, I want to highlight some key projects I have completed in my spare
 
 On the personal side, I live with my wife and two cats in South Royalton, VT and enjoy a wide range of hobbies in my free time, from woodworking to bookbinding.
 
+*****
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+*****
+
 
