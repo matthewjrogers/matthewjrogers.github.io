@@ -247,10 +247,10 @@ compress_html:
 collections:
   portfolio:
     output: true
-    permalink: /:collection/:path/
+    #permalink: /:collection/:path/
   shiny_gallery:
     output: true
-    permalink: /:collection/:path/
+    #permalink: /:shiny_gallery/:path/
     
 defaults:
   - scope:
