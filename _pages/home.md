@@ -4,7 +4,7 @@ author_profile: true
 title: My name is Matt Rogers
 ---
 
-I'm always eager for new challenges and the opportunity to acquire new skills. I've worked in of technical and analytical roles across a variety of industries.
+I'm always eager for new challenges and the opportunity to acquire new skills. I've worked in technical and analytical roles across a variety of industries.
 
 My work experiences include:
 * Senior Analyst at Resource Systems group, where I collected, processed, and integrated large geospatial data sets for transportation market research studies
