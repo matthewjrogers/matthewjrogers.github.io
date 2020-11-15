@@ -1,6 +1,7 @@
 ---
 title: Probably Pancakes
 excerpt: App for classifying recipes as pancakes/not pancakes
+toc: true
 ---
 
 ### Description:
