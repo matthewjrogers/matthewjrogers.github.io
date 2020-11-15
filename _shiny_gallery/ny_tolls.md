@@ -1,7 +1,7 @@
 ---
 title: NY Tolls Visualizer
 excerpt: Basic Shiny app
-layout: default
+layout: single
 author_profile: true
 ---
 ## Visualize entrances and exits to I90
