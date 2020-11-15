@@ -245,11 +245,21 @@ compress_html:
     envs: development
 
 collections:
+  portfolio:
+    output: true
+    permalink: /:collection/:path/
   shiny_gallery:
     output: true
     permalink: /:collection/:path/
     
 defaults:
+  - scope:
+      path: ""
+      type: portfolio
+    values:
+      layout: single
+      author_profile: true
+      share: true
   # _portfolio
   - scope:
       path: ""
