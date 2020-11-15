@@ -11,7 +11,7 @@ An advanced, multi-functional Shiny dashboard designed to visualize repair capac
 * Allow managers at repair shops and P&W corporate offices to identify capacity bottlenecks in real time
 
 ### Outcome:
-* Propietary model and app
+* Proprietary model and app
 * Enabled P&W management to respond to upcoming repair capacity bottlenecks in real time
 * Decreased model runtime by more than 90% with back end calculations written in R 
 
