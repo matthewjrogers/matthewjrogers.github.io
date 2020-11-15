@@ -14,7 +14,7 @@ An app to house a demand simulation model for an international airport.
 ### Outcome
 * Proprietary app
 * Delivered project under budget
-* Commended in annual review for facilitatin gthe ultimate success of the project by providing a key skill set.
+* Commended in annual review for facilitating the ultimate success of the project by providing a key skill set.
 
 ### Notable Features:
 * More than 200 user inputs allowed end users to plan for a vast range of scenarios
