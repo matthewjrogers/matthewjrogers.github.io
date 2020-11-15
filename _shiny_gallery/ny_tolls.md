@@ -7,7 +7,7 @@ toc: true
 ---
 
 ### Description:
-A basic Shiny app to visualize traffic flow on and off of I90 in New York state by time of day and day of week. Inspired by an unexpectedly busy Saturday morning drive to Laguardia airport.
+A basic Shiny app to visualize traffic flow on and off of I-90 in New York state by time of day and day of week. Inspired by an unexpectedly busy Saturday morning drive to Laguardia airport.
 
 ### Goal:
 Be able to identify busiest locations at any given time of day.
