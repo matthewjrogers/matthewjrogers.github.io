@@ -7,8 +7,8 @@ entries_layout: grid
 author_profile: true
 classes: wide
 ---
-
-I am an advanced Shiny developer. In addition to the apps listed here, I have also:
+*****
+I am an accomplished Shiny developer. In addition to the apps listed here, I have also:
 * Developed an app for Pratt & Whitney's Aftermarket operations division that housed a statistical repair capacity model.
    * Built ETL functionality for the app that connected repair shops to a central database in real time
 * Developed an app to house a scenario simulation model for a major international airport
