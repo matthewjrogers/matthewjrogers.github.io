@@ -16,7 +16,7 @@ Be able to identify busiest locations at any given time of day.
 A basic Shiny app
 
 ### Notable Features:
-* Dynamic filter for traffic volume with choices driven my minimum and maximum values for specified time range
+* Dynamic filter for traffic volume with choices driven by minimum and maximum values for specified time range
 
 ### Technology Used:
 * Shiny
