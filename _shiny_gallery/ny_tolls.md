@@ -3,6 +3,7 @@ title: NY Traffic Visualizer
 excerpt: Basic Shiny app
 layout: single
 author_profile: true
+toc: true
 ---
 
 ### Description:
