@@ -1,6 +1,6 @@
 ---
-output: true
 title: Probably Pancakes
+excerpt: App for classifying recipes as pancakes/not pancakes
 ---
 
 ## Web scraping and ml
