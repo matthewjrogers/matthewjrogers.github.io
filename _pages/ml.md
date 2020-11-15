@@ -2,6 +2,9 @@
 permalink: /ml_exp/
 author_profile: true
 layout: single
+layout: collection
+collection: ml
+entries_layout: grid
 ---
 
 ### Machine learning
