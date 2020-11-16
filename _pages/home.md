@@ -14,11 +14,11 @@ I'm always eager for new challenges and the opportunity to acquire new skills. I
 * Research Associate at Demographic Perspectives, where I introduced R for data collection and analysis.
    * Developed web scraping software for rental market analyses that dramatically reduced costs to company and client and remains in use at the company today.
 
-******
 
+### About Me
 On the personal side, I live with my wife and two cats in South Royalton, VT and enjoy a wide range of hobbies in my free time, from woodworking to bookbinding.
 
-*****
+
 ### Key Skills
 * R (data.table, Shiny, Tidyverse)
 * Python (Pandas, NumPy, scikit-learn)
