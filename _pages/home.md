@@ -30,8 +30,7 @@ On the personal side, I live with my wife and two cats in South Royalton, VT and
 
 *****
 
-### CV
-A copy of my resume is available [here](https://github.com/matthewjrogers/matthewjrogers.github.io/files/5542919/Rogers_Matthew_Resume_2020.pdf)
+### [CV](https://github.com/matthewjrogers/matthewjrogers.github.io/files/5542919/Rogers_Matthew_Resume_2020.pdf)
 
 *****
 
