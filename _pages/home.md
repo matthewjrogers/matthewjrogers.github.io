@@ -6,7 +6,6 @@ toc: true
 toc_icon: "fas fa-fw fa-chevron-circle-down"
 ---
 
-I'm always eager for new challenges and the opportunity to acquire new skills. I've worked in technical and analytical roles across a variety of industries.
 
 ### Work Experience
 * Senior Analyst at Resource Systems Group, where I collected, processed, and integrated large geospatial data sets for transportation market research studies
