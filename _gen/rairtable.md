@@ -25,4 +25,4 @@ An R package
 * S3
 
 ### [View on GitHub](https://github.com/matthewjrogers/rairtable)
-### [View Website](matthewjrogers.github.io/rairtable)
+### [View Website](https://matthewjrogers.github.io/rairtable/)
