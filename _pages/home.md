@@ -20,7 +20,7 @@ I'm always eager for new challenges and the opportunity to acquire new skills. I
 *****
 
 ### About Me
-On the personal side, I live with my wife and two cats in South Royalton, VT and enjoy a wide range of hobbies in my free time, from woodworking to bookbinding.
+On the personal side, I live with my wife and two cats in central Vermont and enjoy a wide range of hobbies in my free time, from woodworking to bookbinding.
 
 *****
 
