@@ -11,7 +11,8 @@ I'm always eager for new challenges and the opportunity to acquire new skills. I
 *****
 
 ### Work Experience
-* Data Engineer at Rural Innovation Strategies Inc.
+* Senior Data Engineer at Rural Innovation Strategies Inc, where I lead strategic decision making on data infrastructure and manage and mentor a small team of junior data professionals
+* Data Engineer at Rural Innovation Strategies Inc, where I led the development and management of our database systems and ETL processes.
 * Senior Analyst at Resource Systems Group, where I collected, processed, and integrated large geospatial data sets for transportation market research studies
 * Data Scientist at Pratt & Whitney, where I led the development and roll out of multiple forecasting models and an associated R Shiny app, among the first of its kind at the company
 * Research Associate at Demographic Perspectives, where I introduced R for data collection and analysis.
