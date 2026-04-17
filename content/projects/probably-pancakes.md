@@ -1,6 +1,6 @@
 ---
 title: "probably-pancakes"
-tagline: "A machine learning app that answers the only question that matters: is this recipe pancakes? Trained a Random Forest classifier on 3,200 recipes scraped from the web, then wrapped it in a polished Shiny app. Born from a household mystery — a scrap of paper labeled 'probably pancakes.'"
+tagline: "A machine learning app that answers the only question that matters: does this recipe make pancakes? Trained a Random Forest classifier on 3,200 recipes scraped from the web, then wrapped it in a polished Shiny app. Born from a household mystery — a scrap of paper labeled 'probably pancakes.'"
 tech: "R"
 stack:
   - R
