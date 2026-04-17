@@ -1,0 +1,150 @@
+<!DOCTYPE html>
+<html lang="en-us">
+<head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>respire — Matt Rogers</title>
+  <meta name="description" content="Matt Rogers — chaos remediation specialist and aspiring polymath.">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=DM+Sans:ital,wght@0,400;0,500;0,600;1,400&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="/css/style.css">
+  <script src="/js/theme.js"></script>
+</head>
+<body>
+  <div class="site-wrapper">
+    <nav class="site-nav">
+  <a href="/" class="site-nav__wordmark">Matt Rogers</a>
+  <div class="site-nav__links">
+    
+      <a href="/#projects">Projects</a>
+    
+      <a href="/about/">About</a>
+    
+    <button class="theme-toggle" aria-label="Toggle dark mode">
+      <span class="theme-toggle__knob"></span>
+    </button>
+  </div>
+</nav>
+
+    <main>
+      
+<div class="project-header">
+  <a href="/" class="project-header__back">
+    <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M19 12H5"/><path d="M12 19l-7-7 7-7"/></svg>
+    Back to projects
+  </a>
+
+  <div class="project-header__title-row">
+    <h1 class="project-header__title">respire</h1>
+    
+      <span class="project-card__badge">Python / React</span>
+    
+  </div>
+
+  
+    <p class="project-header__tagline">A modular, open-source platform that centralizes publicly available lung disease data from scattered repositories into a single searchable interface. Researchers can filter across gene expression, microbiome, and other pulmonary datasets and download everything in a consistent, analysis-ready format.</p>
+  
+
+  
+  <div class="project-header__links">
+    
+    <a href="https://github.com/DartCF/respire" target="_blank" rel="noopener">
+      <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M9 19c-5 1.5-5-2.5-7-3m14 6v-3.87a3.37 3.37 0 0 0-.94-2.61c3.14-.35 6.44-1.54 6.44-7A5.44 5.44 0 0 0 20 4.77 5.07 5.07 0 0 0 19.91 1S18.73.65 16 2.48a13.38 13.38 0 0 0-7 0C6.27.65 5.09 1 5.09 1A5.07 5.07 0 0 0 5 4.77a5.44 5.44 0 0 0-1.5 3.78c0 5.42 3.3 6.61 6.44 7A3.37 3.37 0 0 0 9 18.13V22"/></svg>
+      Source
+    </a>
+    
+    
+    <a href="respire.dartmouth.edu" target="_blank" rel="noopener">
+      <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6"/><polyline points="15 3 21 3 21 9"/><line x1="10" y1="14" x2="21" y2="3"/></svg>
+      Live demo
+    </a>
+    
+    
+  </div>
+  
+</div>
+
+
+<div class="project-metrics">
+  
+  <div class="project-metrics__card">
+    <p class="project-metrics__label">Studies indexed</p>
+    <p class="project-metrics__value project-metrics__value--long">2,690 across 2 modules</p>
+  </div>
+  
+  <div class="project-metrics__card">
+    <p class="project-metrics__label">Samples sourced</p>
+    <p class="project-metrics__value">64,761</p>
+  </div>
+  
+  <div class="project-metrics__card">
+    <p class="project-metrics__label">Data volume</p>
+    <p class="project-metrics__value project-metrics__value--long">103.5 GB, analysis-ready</p>
+  </div>
+  
+  <div class="project-metrics__card">
+    <p class="project-metrics__label">Capability</p>
+    <p class="project-metrics__value project-metrics__value--long">First unified search for pulmonary expression data</p>
+  </div>
+  
+</div>
+
+
+<div class="project-body">
+
+  <div class="project-roles">
+    <div>
+      
+      <p class="project-section__label">What I built</p>
+      <div class="tag-list tag-list--built">
+        <span>Core registry and module API spec</span><span>Gene expression module</span><span>Microbiome module</span><span>Search interface</span><span>Data ingestion pipelines</span>
+      </div>
+      
+
+      
+      <p class="project-section__label" style="margin-top: 16px;">How I led</p>
+      <div class="tag-list tag-list--led">
+        <span>Project scoping and roadmap</span><span>Client relationship ownership</span><span>Project management</span><span>Project architecture</span>
+      </div>
+      
+    </div>
+
+    <div>
+      
+      <p class="project-section__label">Stack</p>
+      <ul class="stack-list">
+        <li>React</li><li>Redux</li><li>FastAPI</li><li>PostgreSQL</li><li>Docker</li>
+      </ul>
+      
+    </div>
+  </div>
+
+  
+  <div class="project-decisions">
+    <p class="project-section__label">Key decisions</p>
+    <ul class="decisions-list">
+      
+      <li>Plugin architecture with a defined module API — new data types (proteomics, metabolomics) plug into the core without rebuilding it, so the system grows without re-engineering</li>
+      
+      <li>Containerized microservices — the system needs to be deployable by other research groups on their own infrastructure, so portability was a hard requirement</li>
+      
+      <li>Open-sourced and domain-agnostic core — the framework works for any disease area, not just pulmonary, which multiplies the value of the engineering investment</li>
+      
+    </ul>
+  </div>
+  
+
+  
+
+</div>
+
+    </main>
+    <footer class="site-footer">
+  <span>&copy; 2026 Matt Rogers</span>
+  <span>Built with <a href="https://gohugo.io" style="color: var(--text-tertiary); text-decoration: underline;">Hugo</a></span>
+</footer>
+
+  </div>
+</body>
+</html>

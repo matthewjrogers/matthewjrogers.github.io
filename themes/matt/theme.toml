@@ -1,0 +1,11 @@
+name = "matt"
+license = "MIT"
+licenselink = "https://github.com/yourname/matt/blob/main/LICENSE"
+description = "A minimal, speed-first personal portfolio theme for developers."
+min_version = "0.120.0"
+
+[author]
+  name = "Matt"
+
+[params]
+  description = "Minimal developer portfolio"

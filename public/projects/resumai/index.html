@@ -1,0 +1,138 @@
+<!DOCTYPE html>
+<html lang="en-us">
+<head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>resumai — Matt Rogers</title>
+  <meta name="description" content="Matt Rogers — chaos remediation specialist and aspiring polymath.">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=DM+Sans:ital,wght@0,400;0,500;0,600;1,400&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="/css/style.css">
+  <script src="/js/theme.js"></script>
+</head>
+<body>
+  <div class="site-wrapper">
+    <nav class="site-nav">
+  <a href="/" class="site-nav__wordmark">Matt Rogers</a>
+  <div class="site-nav__links">
+    
+      <a href="/#projects">Projects</a>
+    
+      <a href="/about/">About</a>
+    
+    <button class="theme-toggle" aria-label="Toggle dark mode">
+      <span class="theme-toggle__knob"></span>
+    </button>
+  </div>
+</nav>
+
+    <main>
+      
+<div class="project-header">
+  <a href="/" class="project-header__back">
+    <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M19 12H5"/><path d="M12 19l-7-7 7-7"/></svg>
+    Back to projects
+  </a>
+
+  <div class="project-header__title-row">
+    <h1 class="project-header__title">resumai</h1>
+    
+      <span class="project-card__badge">Python</span>
+    
+  </div>
+
+  
+    <p class="project-header__tagline">An LLM inference pipeline that scores millions of cover letter–job posting pairs for quality and relevance. Traditional text analysis couldn&rsquo;t judge whether a letter actually addressed a job; this pipeline runs each pair through an open-weight model multiple times, verifies score stability, and scales from a 1K dev set to 5M production pairs.</p>
+  
+
+  
+  <div class="project-header__links">
+    
+    
+    
+    <a href="https://jesse-silbert.github.io/website/silbert_jmp.pdf" target="_blank" rel="noopener">
+      <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8z"/><polyline points="14 2 14 8 20 8"/><line x1="16" y1="13" x2="8" y2="13"/><line x1="16" y1="17" x2="8" y2="17"/></svg>
+      Paper
+    </a>
+    
+  </div>
+  
+</div>
+
+
+<div class="project-metrics">
+  
+  <div class="project-metrics__card">
+    <p class="project-metrics__label">Scale</p>
+    <p class="project-metrics__value project-metrics__value--long">1K dev set → 5M production pairs</p>
+  </div>
+  
+  <div class="project-metrics__card">
+    <p class="project-metrics__label">Capability</p>
+    <p class="project-metrics__value project-metrics__value--long">LLM-based relevance scoring at research scale</p>
+  </div>
+  
+  <div class="project-metrics__card">
+    <p class="project-metrics__label">Reproducibility</p>
+    <p class="project-metrics__value project-metrics__value--long">Open-weight models, pinned versions</p>
+  </div>
+  
+</div>
+
+
+<div class="project-body">
+
+  <div class="project-roles">
+    <div>
+      
+      <p class="project-section__label">What I built</p>
+      <div class="tag-list tag-list--built">
+        <span>Batch inference pipeline</span><span>Structured prompting and scoring logic</span><span>Validation interface</span><span>Reproducibility and logging framework</span>
+      </div>
+      
+
+      
+      <p class="project-section__label" style="margin-top: 16px;">How I led</p>
+      <div class="tag-list tag-list--led">
+        <span>Client relationship ownership</span><span>Timeline management</span>
+      </div>
+      
+    </div>
+
+    <div>
+      
+      <p class="project-section__label">Stack</p>
+      <ul class="stack-list">
+        <li>Python</li><li>AWS Bedrock</li><li>AWS SDK</li>
+      </ul>
+      
+    </div>
+  </div>
+
+  
+  <div class="project-decisions">
+    <p class="project-section__label">Key decisions</p>
+    <ul class="decisions-list">
+      
+      <li>Open-weight models over commercial APIs — commercial providers retire models without notice, which would make published results irreproducible. Pinning an open-weight model version keeps the analysis stable for years</li>
+      
+      <li>AWS Bedrock batch inference allowed us to hit a tight data processing timeline</li>
+      
+    </ul>
+  </div>
+  
+
+  
+
+</div>
+
+    </main>
+    <footer class="site-footer">
+  <span>&copy; 2026 Matt Rogers</span>
+  <span>Built with <a href="https://gohugo.io" style="color: var(--text-tertiary); text-decoration: underline;">Hugo</a></span>
+</footer>
+
+  </div>
+</body>
+</html>
