@@ -2,24 +2,24 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:51888/projects/genji-lab/</loc>
+    <loc>http://localhost:52198/projects/genji-lab/</loc>
   </url><url>
-    <loc>http://localhost:51888/projects/respire/</loc>
+    <loc>http://localhost:52198/projects/respire/</loc>
   </url><url>
-    <loc>http://localhost:51888/projects/resumai/</loc>
+    <loc>http://localhost:52198/projects/resumai/</loc>
   </url><url>
-    <loc>http://localhost:51888/projects/probably-pancakes/</loc>
+    <loc>http://localhost:52198/projects/probably-pancakes/</loc>
   </url><url>
-    <loc>http://localhost:51888/projects/rairtable/</loc>
+    <loc>http://localhost:52198/projects/rairtable/</loc>
   </url><url>
-    <loc>http://localhost:51888/about/</loc>
+    <loc>http://localhost:52198/about/</loc>
   </url><url>
-    <loc>http://localhost:51888/categories/</loc>
+    <loc>http://localhost:52198/categories/</loc>
   </url><url>
-    <loc>http://localhost:51888/</loc>
+    <loc>http://localhost:52198/</loc>
   </url><url>
-    <loc>http://localhost:51888/projects/</loc>
+    <loc>http://localhost:52198/projects/</loc>
   </url><url>
-    <loc>http://localhost:51888/tags/</loc>
+    <loc>http://localhost:52198/tags/</loc>
   </url>
 </urlset>

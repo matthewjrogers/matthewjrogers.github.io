@@ -470,3 +470,34 @@ img { max-width: 100%; display: block; }
   .project-roles { grid-template-columns: 1fr; gap: 20px; }
   .site-nav__links { gap: 16px; }
 }
+
+.contact-links {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+  list-style: none;
+}
+.contact-links a {
+  font-size: 13px;
+  padding: 6px 14px;
+  border-radius: 6px;
+  background: var(--bg-secondary);
+  color: var(--text-primary);
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  transition: background 0.15s;
+  text-decoration: none;
+}
+.contact-links a:hover {
+  background: var(--bg-tertiary);
+}
+.contact-links svg {
+  width: 14px;
+  height: 14px;
+}
+
+.prose .contact-links a {
+  color: var(--text-primary);
+  text-decoration: none;
+}

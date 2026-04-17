@@ -2,52 +2,52 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Matt Rogers</title>
-    <link>http://localhost:51888/</link>
+    <link>http://localhost:52198/</link>
     <description>Recent content on Matt Rogers</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <atom:link href="http://localhost:51888/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:52198/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>genji-lab</title>
-      <link>http://localhost:51888/projects/genji-lab/</link>
+      <link>http://localhost:52198/projects/genji-lab/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:51888/projects/genji-lab/</guid>
+      <guid>http://localhost:52198/projects/genji-lab/</guid>
       <description></description>
     </item>
     <item>
       <title>respire</title>
-      <link>http://localhost:51888/projects/respire/</link>
+      <link>http://localhost:52198/projects/respire/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:51888/projects/respire/</guid>
+      <guid>http://localhost:52198/projects/respire/</guid>
       <description></description>
     </item>
     <item>
       <title>resumai</title>
-      <link>http://localhost:51888/projects/resumai/</link>
+      <link>http://localhost:52198/projects/resumai/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:51888/projects/resumai/</guid>
+      <guid>http://localhost:52198/projects/resumai/</guid>
       <description></description>
     </item>
     <item>
       <title>probably-pancakes</title>
-      <link>http://localhost:51888/projects/probably-pancakes/</link>
+      <link>http://localhost:52198/projects/probably-pancakes/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:51888/projects/probably-pancakes/</guid>
+      <guid>http://localhost:52198/projects/probably-pancakes/</guid>
       <description></description>
     </item>
     <item>
       <title>rairtable</title>
-      <link>http://localhost:51888/projects/rairtable/</link>
+      <link>http://localhost:52198/projects/rairtable/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:51888/projects/rairtable/</guid>
+      <guid>http://localhost:52198/projects/rairtable/</guid>
       <description></description>
     </item>
     <item>
       <title>About</title>
-      <link>http://localhost:51888/about/</link>
+      <link>http://localhost:52198/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:51888/about/</guid>
-      <description>&lt;p&gt;I&amp;rsquo;m a software engineer who likes building tools that make other developers&amp;rsquo; lives easier. I&amp;rsquo;ve spent most of my career working on infrastructure, developer experience, and internal tooling.&lt;/p&gt;&#xA;&lt;p&gt;When I&amp;rsquo;m not writing code, I&amp;rsquo;m probably reading about distributed systems, tinkering with my homelab, or going for a run.&lt;/p&gt;&#xA;&lt;h2 id=&#34;get-in-touch&#34;&gt;Get in touch&lt;/h2&gt;&#xA;&lt;p&gt;The best way to reach me is via &lt;a href=&#34;mailto:matthew.rogers09@gmail.com&#34;&gt;email&lt;/a&gt; or &lt;a href=&#34;https://linkedin.com/in/matthew-j-rogers&#34;&gt;LinkedIn&lt;/a&gt;.&lt;/p&gt;</description>
+      <guid>http://localhost:52198/about/</guid>
+      <description>&lt;p&gt;My name is Matt Rogers. I&amp;rsquo;m a research software engineer, chaos remediation specialist, and aspiring polymath. I&amp;rsquo;ve worked with everyone from microbiologists to economists and linguists to facilitate research with custom software.&lt;/p&gt;&#xA;&lt;p&gt;I&amp;rsquo;m most at home with interesting ETL pipelines, but I&amp;rsquo;ve built everything from websites and dashboards to custom image processing software.&lt;/p&gt;&#xA;&lt;p&gt;Outside of work, I&amp;rsquo;m revising a novel, building and shooting&#xA;traditional bows, and pursuing a Sisyphean (though generally delicious) quest for the perfect eggplant&#xA;parm sub.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

@@ -22,3 +22,8 @@ theme = "matt"
     name = "About"
     url = "/about/"
     weight = 2
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
