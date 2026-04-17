@@ -1,0 +1,12 @@
+{{ define "main" }}
+<section style="padding: 48px 0;">
+  <h1 style="font-size: 22px; font-weight: 600; letter-spacing: -0.02em; margin-bottom: 24px;">{{ .Title }}</h1>
+  {{ .Content }}
+  {{ range .Pages }}
+  <article style="margin-bottom: 24px;">
+    <a href="{{ .RelPermalink }}" style="font-size: 16px; font-weight: 500; color: var(--accent);">{{ .Title }}</a>
+    {{ with .Params.tagline }}<p style="font-size: 14px; color: var(--text-secondary); margin-top: 4px;">{{ . }}</p>{{ end }}
+  </article>
+  {{ end }}
+</section>
+{{ end }}

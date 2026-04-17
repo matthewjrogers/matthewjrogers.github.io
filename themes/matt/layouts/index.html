@@ -1,0 +1,34 @@
+{{ define "main" }}
+<section class="hero">
+  {{ with .Site.Params.photo }}
+    <img src="{{ . | relURL }}" alt="{{ $.Site.Params.author }}" class="hero__photo">
+  {{ else }}
+    <div class="hero__photo--placeholder">{{ substr (.Site.Params.author | default "M") 0 1 }}</div>
+  {{ end }}
+  <div>
+    <h1 class="hero__name">{{ .Site.Params.author | default .Site.Title }}</h1>
+    <p class="hero__bio">{{ .Site.Params.bio | markdownify }}</p>
+    {{ partial "socials.html" . }}
+  </div>
+</section>
+
+{{ $projects := where .Site.RegularPages "Section" "projects" }}
+{{ if $projects }}
+<section>
+  <p class="section-label">Selected projects</p>
+  <div class="projects-grid">
+    {{ range $projects.ByWeight }}
+    <a href="{{ .RelPermalink }}" class="project-card">
+      <div class="project-card__header">
+        <span class="project-card__title">{{ .Title }}</span>
+        {{ with .Params.tech }}
+          <span class="project-card__badge">{{ . }}</span>
+        {{ end }}
+      </div>
+      <p class="project-card__desc">{{ .Params.tagline | default .Summary }}</p>
+    </a>
+    {{ end }}
+  </div>
+</section>
+{{ end }}
+{{ end }}
