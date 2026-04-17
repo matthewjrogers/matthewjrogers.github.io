@@ -7,7 +7,7 @@ theme = "matt"
   author = "Matt Rogers"
   bio = "Software engineer and chaos remediation specialist, turning crazy ideas into real software solutions."
   description = "Matt Rogers — chaos remediation specialist and aspiring polymath."
-  photo = "img/matt.jpg"  # uncomment and place image in static/img/
+  photo = "img/matt.JPG"  # uncomment and place image in static/img/
 
   [params.social]
     github = "matthewjrogers"
